@@ -1,0 +1,19 @@
+2015.1.6
+===添加spell check功能===
+1.下载LanguageTool-2.8
+2.解压缩后，copy以下三个目录
+libs
+META-INF
+org
+到工程目录
+3.因为只用英文，所以对org和META-INF的内容进行了裁剪
+4.Add all jars in libs to Java Build Path
+5.Add LanguageTool-2.8 to Java Build Path
+LanguageTool-2.8是个目录，里面有裁剪后的org和META-INF
+这里需要用Java Build Path->Add class Folder添加
+
+6.redo和undo功能集成在LanguageTool中
+
+===添加PDF导出===
+1.下载com.lowagie.text-2.1.7.jar
+2.Add to Java Build Path

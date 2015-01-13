@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jre7"/>
+	<classpathentry kind="lib" path="libs/cjftransform.jar"/>
+	<classpathentry kind="lib" path="libs/commons-cli.jar"/>
+	<classpathentry kind="lib" path="libs/commons-lang.jar"/>
+	<classpathentry kind="lib" path="libs/commons-logging.jar"/>
+	<classpathentry kind="lib" path="libs/hamcrest-core.jar"/>
+	<classpathentry kind="lib" path="libs/hppc.jar"/>
+	<classpathentry kind="lib" path="libs/hunspell-native-libs.jar"/>
+	<classpathentry kind="lib" path="libs/ictclas4j.jar"/>
+	<classpathentry kind="lib" path="libs/jna.jar"/>
+	<classpathentry kind="lib" path="libs/junit.jar"/>
+	<classpathentry kind="lib" path="libs/jwordsplitter.jar"/>
+	<classpathentry kind="lib" path="libs/languagetool-core-tests.jar"/>
+	<classpathentry kind="lib" path="libs/languagetool-core.jar"/>
+	<classpathentry kind="lib" path="libs/languagetool-gui-commons.jar"/>
+	<classpathentry kind="lib" path="libs/lucene-core.jar"/>
+	<classpathentry kind="lib" path="libs/lucene-gosen-ipadic.jar"/>
+	<classpathentry kind="lib" path="libs/morfologik-fsa.jar"/>
+	<classpathentry kind="lib" path="libs/morfologik-polish.jar"/>
+	<classpathentry kind="lib" path="libs/morfologik-speller.jar"/>
+	<classpathentry kind="lib" path="libs/morfologik-stemming.jar"/>
+	<classpathentry kind="lib" path="libs/morfologik-tools.jar"/>
+	<classpathentry kind="lib" path="libs/opennlp-chunk-models.jar"/>
+	<classpathentry kind="lib" path="libs/opennlp-maxent.jar"/>
+	<classpathentry kind="lib" path="libs/opennlp-postag-models.jar"/>
+	<classpathentry kind="lib" path="libs/opennlp-tokenize-models.jar"/>
+	<classpathentry kind="lib" path="libs/opennlp-tools.jar"/>
+	<classpathentry kind="lib" path="libs/segment.jar"/>
+	<classpathentry kind="lib" path="libs/tika-core.jar"/>
+	<classpathentry kind="lib" path="LanguageTool-2.8"/>
+	<classpathentry kind="lib" path="libs/com.lowagie.text-2.1.7.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
